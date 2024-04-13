@@ -5,4 +5,4 @@
 - 💻 NodeJS, ReactJS, NextJS, JavaScript, TypeScript, Java, SpringBoot, AWS, DevOps.
 - ✨ Always learning in order to be better than yesterday.
 
-![](animation2.gif)
+![](animation.gif)
