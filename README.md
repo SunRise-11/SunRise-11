@@ -60,10 +60,6 @@
       <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
       <br>TypeScript
     </td>
-    <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jQuery" />
-      <br>jQuery
-    </td>
   </tr>
   <tr>
     <td align="center" width="90">
@@ -101,10 +97,6 @@
     <td align="center" width="90">
         <img src="https://skillicons.dev/icons?i=qt" width="48" height="48" alt="qt" />
       <br>Qt
-    </td>
-    <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="flutter" />
-      <br>Flutter
     </td>
     <td align="center" width="90">
         <img src="https://skillicons.dev/icons?i=androidstudio" width="48" height="48" alt="androidstudio" />
