@@ -134,7 +134,6 @@
     </td>
   </tr>
 </table>
-<br><br>
 </div>
 
 ### GitHub Stats
@@ -147,8 +146,6 @@
       <img height="180em" width="45%" align="right" src="http://github-readme-streak-stats.herokuapp.com?user=SunRise-11&theme=react&border=00dafb&fire=DDB80F"/>
  </a>
 </div>
-
-### ![](animation.gif)
 
 <a href="#">
     <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
