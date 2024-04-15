@@ -3,10 +3,7 @@
     <img src="https://github.com//maksymdev701/maksymdev701/raw/main/img/header.png" alt="Sniper" /></a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;6%2B%20years%20of%20coding%20experience;Always%20learning%20trending%20techs&font=Fira%20Code&center=true&width=440&height=45&color=lean&vCenter=true&pause=1000&size=22" /></a>
-</p>
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00dafb&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+a+Full-Stack+Developer;I+have+9+years+of+experience)
 
 ### Hi there! Welcome to my repositories! How is it going? 👋🚀
 
@@ -71,22 +68,6 @@
       <br>SpringBoot
     </td>
     <td align="center" width="90">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
-      <br>C++
-    </td>
-    <td align="center" width="90">
-        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
-      <br>C#
-    </td>
-    <td align="center" width="90">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
-      <br>Python
-    </td>
-    <td align="center" width="90">
-        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
-      <br>Django
-    </td>
-    <td align="center" width="90">
         <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="nodeJS" />
       <br>NodeJS
     </td>
@@ -99,8 +80,24 @@
       <br>Qt
     </td>
     <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=androidstudio" width="48" height="48" alt="androidstudio" />
-      <br>Android
+        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
+      <br>C++
+    </td>
+    <td align="center" width="90">
+        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
+      <br>C#
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
+      <br>GitHub
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
+      <br>AWS
+    </td>
+      <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
+      <br>Docker
     </td>
   </tr>
   <tr>
@@ -120,18 +117,6 @@
       <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="mongodb" />
       <br>MongoDB
     </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
-      <br>GitHub
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
-      <br>AWS
-    </td>
-      <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
-      <br>Docker
-    </td>
   </tr>
 </table>
 </div>
@@ -146,7 +131,13 @@
       <img height="180em" width="45%" align="right" src="http://github-readme-streak-stats.herokuapp.com?user=SunRise-11&theme=react&border=00dafb&fire=DDB80F"/>
  </a>
 </div>
-
+<br/>
+<div align=center>
+  <br/>
+<a href="#" title="Go to Source">
+  <img width="45%" height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SunRise-11&layout=compact&show_icons=true&&theme=react&border=00dafb&fire=DDB80Fborder_color=00dafb" />
+</a>
+</div>
 <a href="#">
     <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 </a>
