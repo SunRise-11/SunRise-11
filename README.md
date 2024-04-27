@@ -1,10 +1,3 @@
-<p align="center">
-  <a href="https://github.com/maksymdev701">
-    <img src="https://github.com//maksymdev701/maksymdev701/raw/main/img/header.png" alt="Sniper" /></a>
-</p>
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00dafb&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+a+Full-Stack+Developer;I+have+9+years+of+experience)
-
 ### Hi there! Welcome to my repositories! How is it going? 👋🚀
 
 - 💻 NodeJS, ReactJS, NextJS, JavaScript, TypeScript, Java, SpringBoot, AWS, DevOps.
@@ -76,16 +69,16 @@
       <br>NestJS
     </td>
     <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=qt" width="48" height="48" alt="qt" />
-      <br>Qt
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+      <br>MySQL
     </td>
     <td align="center" width="90">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
-      <br>C++
+      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="mongodb" />
+      <br>MongoDB
     </td>
     <td align="center" width="90">
-        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
-      <br>C#
+      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="postgres" />
+      <br>PostgreSQL
     </td>
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
@@ -99,25 +92,7 @@
       <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
       <br>Docker
     </td>
-  </tr>
-  <tr>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
-      <br>MySQL
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="postgres" />
-      <br>PostgreSQL
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="SQLite" />
-      <br>SQLite
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="mongodb" />
-      <br>MongoDB
-    </td>
-  </tr>
+  </tr>  
 </table>
 </div>
 
@@ -138,6 +113,3 @@
   <img width="45%" height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SunRise-11&layout=compact&show_icons=true&&theme=react&border=00dafb&fire=DDB80Fborder_color=00dafb" />
 </a>
 </div>
-<a href="#">
-    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
-</a>
