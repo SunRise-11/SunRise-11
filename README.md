@@ -65,7 +65,7 @@
       <br>NodeJS
     </td>
     <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=nest" width="48" height="48" alt="nest" />
+        <img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="nest" />
       <br>NestJS
     </td>
     <td align="center" width="90">
