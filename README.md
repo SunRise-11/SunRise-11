@@ -65,8 +65,8 @@
       <br>NodeJS
     </td>
     <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="nest" />
-      <br>NestJS
+        <img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="Go" />
+      <br>Go
     </td>
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
