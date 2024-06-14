@@ -1,6 +1,6 @@
 ### Hi there! Welcome to my repositories! How is it going? 👋🚀
 
-- 💻 NodeJS, ReactJS, NextJS, JavaScript, TypeScript, Java, SpringBoot, AWS, DevOps.
+- 💻 Solidity, Rust, Golang, NodeJS, ReactJS, NextJS, JavaScript, TypeScript, Java, SpringBoot, AWS, DevOps.
 - ✨ Always learning in order to be better than yesterday.
 
 
@@ -100,16 +100,16 @@
 
 <div align=center>
 <a href="#" title="Go to Source">
-      <img height="180em" align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=SunRise-11&show_icons=true&theme=react&border_color=00dafb&include_all_commits=true"/>
+      <img height="180em" align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=kryptonite07&show_icons=true&theme=react&border_color=00dafb&include_all_commits=true"/>
  </a>
 <a href="#" title="Go to Source">
-      <img height="180em" width="45%" align="right" src="http://github-readme-streak-stats.herokuapp.com?user=SunRise-11&theme=react&border=00dafb&fire=DDB80F"/>
+      <img height="180em" width="45%" align="right" src="http://github-readme-streak-stats.herokuapp.com?user=kryptonite07&theme=react&border=00dafb&fire=DDB80F"/>
  </a>
 </div>
 <br/>
 <div align=center>
   <br/>
 <a href="#" title="Go to Source">
-  <img width="45%" height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SunRise-11&layout=compact&show_icons=true&&theme=react&border=00dafb&fire=DDB80Fborder_color=00dafb" />
+  <img width="45%" height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kryptonite07&layout=compact&show_icons=true&&theme=react&border=00dafb&fire=DDB80Fborder_color=00dafb" />
 </a>
 </div>
